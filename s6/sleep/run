@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "what"
-echo "do"
+echo "$KEY should be VALUE"
+echo "stderr" >&2
 
 exec sleep 1000
