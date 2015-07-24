@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "what"
+echo "do"
+
+exec sleep 1000
