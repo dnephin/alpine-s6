@@ -15,3 +15,7 @@ processes.
     docker run --name signals signals
     docker stop signals
 ```
+
+
+To use this as a template for building an image, edit `s6/service/run` to call
+the command.
