@@ -19,3 +19,8 @@ processes.
 
 To use this as a template for building an image, edit `s6/service/run` to call
 the command.
+
+Related
+-------
+
+* https://github.com/Yelp/dumb-init
